@@ -63,6 +63,7 @@ a {
 .popup {
 	position: fixed;
 	display: none;
+	margin-left: -8px;
 	justify-content: center;
 	align-items: center;
 	top: 0;
